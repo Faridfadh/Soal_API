@@ -1,0 +1,4 @@
+LInk Akses Postmen
+- http://127.0.0.1:8000/api/questionbank
+- http://127.0.0.1:8000/api/quizzes
+- http://127.0.0.1:8000/api/questionbank_quizzes
